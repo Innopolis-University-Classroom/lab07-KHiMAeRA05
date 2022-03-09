@@ -19,6 +19,9 @@ public:
     T divide() { return num1/num2; }
 };
 
+// a.voronova@innopolis.university
+// Voronova Aleksandra
+
 
 
 
